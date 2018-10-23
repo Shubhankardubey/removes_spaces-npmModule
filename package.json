@@ -1,0 +1,14 @@
+{
+  "name": "@comrade.js/removes_spaces",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "Shubhankardubey/removes_spaces-npmModule",
+  "main": "index.js",
+  "keywords": [
+    "removes_spaces",
+    "npm",
+    "package",
+    "comrade.js"
+  ]
+}

@@ -8,7 +8,7 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @@comrade.js/removes_spaces
+$ npm install @comrade.js/removes_spaces
 ```
 
 ## Usage
